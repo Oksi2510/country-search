@@ -1,0 +1,38 @@
+[
+  {
+    "area": 17124442,
+    "cioc": "RUS",
+    "flag": "🇷🇺",
+    "gini": 37.5,
+    "name": "Russian Federation",
+    "flags": { "png": "https://flagcdn.com/w320/ru.png", "svg": "https://flagcdn.com/ru.svg" },
+    "latlng": [60, 100],
+    "region": "Europe",
+    "borders": ["AZE", "BLR", "CHN", "EST", "FIN", "GEO", "KAZ", "PRK", "LVA", "LTU", "MNG", "NOR", "POL", "UKR"],
+    "capital": "Moscow",
+    "demonym": "Russian",
+    "languages": [{ "name": "Russian", "iso639_1": "ru", "iso639_2": "rus", "nativeName": "Русский" }],
+    "subregion": "Eastern Europe",
+    "timezones": [
+      "UTC+03:00",
+      "UTC+04:00",
+      "UTC+06:00",
+      "UTC+07:00",
+      "UTC+08:00",
+      "UTC+09:00",
+      "UTC+10:00",
+      "UTC+11:00",
+      "UTC+12:00"
+    ],
+    "alpha2Code": "RU",
+    "alpha3Code": "RUS",
+    "currencies": [{ "code": "RUB", "name": "Russian ruble", "symbol": "₽" }],
+    "nativeName": "Россия",
+    "population": 144104080,
+    "independent": true,
+    "numericCode": "643",
+    "callingCodes": ["7"],
+    "topLevelDomain": [".ru"],
+    "populationDensity": 8.42
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "area": 41284,
+    "cioc": "SUI",
+    "flag": "🇨🇭",
+    "gini": 33.1,
+    "name": "Switzerland",
+    "flags": { "png": "https://flagcdn.com/w320/ch.png", "svg": "https://flagcdn.com/ch.svg" },
+    "latlng": [47, 8],
+    "region": "Europe",
+    "borders": ["AUT", "FRA", "ITA", "LIE", "DEU"],
+    "demonym": "Swiss",
+    "languages": [
+      { "name": "German", "iso639_1": "de", "iso639_2": "deu", "nativeName": "Deutsch" },
+      { "name": "French", "iso639_1": "fr", "iso639_2": "fra", "nativeName": "français" },
+      { "name": "Italian", "iso639_1": "it", "iso639_2": "ita", "nativeName": "Italiano" },
+      { "name": "Romansh", "iso639_2": "roh" }
+    ],
+    "subregion": "Central Europe",
+    "timezones": ["UTC+01:00"],
+    "alpha2Code": "CH",
+    "alpha3Code": "CHE",
+    "currencies": [{ "code": "CHF", "name": "Swiss franc", "symbol": "Fr" }],
+    "nativeName": "Schweiz",
+    "population": 8636896,
+    "independent": true,
+    "numericCode": "756",
+    "callingCodes": ["41"],
+    "topLevelDomain": [".ch"],
+    "populationDensity": 209.21
+  }
+]
